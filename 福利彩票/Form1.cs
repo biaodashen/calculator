@@ -233,7 +233,7 @@ namespace 福利彩票
 
             catch (Exception) 
             {
-
+                MessageBox.Show("test!");
             }
 
         }
